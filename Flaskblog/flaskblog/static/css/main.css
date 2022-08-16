@@ -47,8 +47,7 @@ body {
   
   .article-img {
     height: 65px;
-    width: 65px;
-    margin-right: 16px;
+    width: 90px;
   }
   
   .article-metadata {
@@ -70,8 +69,7 @@ body {
   
   .account-img {
     height: 125px;
-    width: 125px;
-    margin-right: 20px;
+    width: 150px;
     margin-bottom: 16px;
   }
   
